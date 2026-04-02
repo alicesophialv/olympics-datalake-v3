@@ -1,0 +1,13 @@
+{
+    "nome_do_dataset": "genero_summary",
+    "camada": "Gold",
+    "descricao": "Evolução da participação de atletas homens e mulheres por edição.",
+    "campos_principais": [
+        "year",
+        "edition",
+        "Masculino",
+        "Feminino"
+    ],
+    "data_criacao": "2026-04-02",
+    "observacoes": "Análise da disparidade histórica de gênero nas Olimpíadas."
+}

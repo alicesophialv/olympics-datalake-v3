@@ -1,0 +1,12 @@
+{
+    "nome_do_dataset": "modalidades_summary",
+    "camada": "Gold",
+    "descricao": "Contagem histórica do número de modalidades esportivas por edição das Olimpíadas.",
+    "campos_principais": [
+        "year",
+        "edition",
+        "total_esportes"
+    ],
+    "data_criacao": "2026-04-02",
+    "observacoes": "Análise focada na expansão do programa olímpico ao longo dos anos."
+}

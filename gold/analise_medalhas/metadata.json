@@ -1,0 +1,14 @@
+{
+    "nome_do_dataset": "medalhas_summary",
+    "camada": "Gold",
+    "descricao": "Ranking histórico acumulado de medalhas por país (1896-2024).",
+    "campos_principais": [
+        "country",
+        "gold",
+        "silver",
+        "bronze",
+        "total"
+    ],
+    "criterio_ordenacao": "Padrão Olímpico (Ouro, Prata, Bronze)",
+    "data_criacao": "2026-04-02"
+}
