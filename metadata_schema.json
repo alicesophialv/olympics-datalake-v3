@@ -1,0 +1,13 @@
+{
+    "projeto": "Olimpíadas 1896-2024 - Data Lake Architecture",
+    "versao_schema": "1.0",
+    "estrutura_obrigatoria": {
+        "nome_do_dataset": "Nome identificador do arquivo",
+        "camada": "Localização no Data Lake (Raw, Bronze, Gold)",
+        "fonte": "Origem dos dados (CSV original, Join, etc.)",
+        "descricao": "Explicação do conteúdo dos dados",
+        "campos_principais": "Lista com os nomes das colunas",
+        "data_de_processamento": "Data em que o arquivo foi gerado",
+        "formato_armazenamento": "Parquet, JSON ou CSV"
+    }
+}
