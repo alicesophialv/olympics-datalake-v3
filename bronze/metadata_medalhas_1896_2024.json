@@ -1,0 +1,19 @@
+{
+    "nome_do_dataset": "medalhas_1896_2024",
+    "fonte": "Integração olympics_historico + olympics_paris2024",
+    "descricao": "Dataset integrado contendo todo o histórico de medalhas até Paris 2024.",
+    "campos_principais": [
+        "year",
+        "edition",
+        "edition_id",
+        "country",
+        "country_noc",
+        "gold",
+        "silver",
+        "bronze",
+        "total"
+    ],
+    "data_de_processamento": "2026-04-01",
+    "formato_armazenamento": "Parquet e JSON",
+    "observacoes": "Dados padronizados e concatenados para análise final."
+}

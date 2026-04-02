@@ -1,0 +1,668 @@
+[
+    {
+        "year":1896,
+        "edition":"1896 Summer Olympics",
+        "sex":"Female",
+        "count":2
+    },
+    {
+        "year":1896,
+        "edition":"1896 Summer Olympics",
+        "sex":"Male",
+        "count":241
+    },
+    {
+        "year":1900,
+        "edition":"1900 Summer Olympics",
+        "sex":"Female",
+        "count":40
+    },
+    {
+        "year":1900,
+        "edition":"1900 Summer Olympics",
+        "sex":"Male",
+        "count":2125
+    },
+    {
+        "year":1904,
+        "edition":"1904 Summer Olympics",
+        "sex":"Female",
+        "count":6
+    },
+    {
+        "year":1904,
+        "edition":"1904 Summer Olympics",
+        "sex":"Male",
+        "count":1358
+    },
+    {
+        "year":1906,
+        "edition":"1906  Intercalated Games",
+        "sex":"Male",
+        "count":8
+    },
+    {
+        "year":1908,
+        "edition":"1908 Summer Olympics",
+        "sex":"Female",
+        "count":54
+    },
+    {
+        "year":1908,
+        "edition":"1908 Summer Olympics",
+        "sex":"Male",
+        "count":2369
+    },
+    {
+        "year":1912,
+        "edition":"1912 Summer Olympics",
+        "sex":"Female",
+        "count":62
+    },
+    {
+        "year":1912,
+        "edition":"1912 Summer Olympics",
+        "sex":"Male",
+        "count":2814
+    },
+    {
+        "year":1920,
+        "edition":"1920 Summer Olympics",
+        "sex":"Female",
+        "count":106
+    },
+    {
+        "year":1920,
+        "edition":"1920 Summer Olympics",
+        "sex":"Male",
+        "count":2773
+    },
+    {
+        "year":1924,
+        "edition":"1924 Summer Olympics",
+        "sex":"Female",
+        "count":170
+    },
+    {
+        "year":1924,
+        "edition":"1924 Winter Olympics",
+        "sex":"Female",
+        "count":16
+    },
+    {
+        "year":1924,
+        "edition":"1924 Summer Olympics",
+        "sex":"Male",
+        "count":3800
+    },
+    {
+        "year":1924,
+        "edition":"1924 Winter Olympics",
+        "sex":"Male",
+        "count":359
+    },
+    {
+        "year":1928,
+        "edition":"1928 Summer Olympics",
+        "sex":"Female",
+        "count":357
+    },
+    {
+        "year":1928,
+        "edition":"1928 Winter Olympics",
+        "sex":"Female",
+        "count":28
+    },
+    {
+        "year":1928,
+        "edition":"1928 Summer Olympics",
+        "sex":"Male",
+        "count":3471
+    },
+    {
+        "year":1928,
+        "edition":"1928 Winter Olympics",
+        "sex":"Male",
+        "count":493
+    },
+    {
+        "year":1932,
+        "edition":"1932 Summer Olympics",
+        "sex":"Female",
+        "count":205
+    },
+    {
+        "year":1932,
+        "edition":"1932 Winter Olympics",
+        "sex":"Female",
+        "count":34
+    },
+    {
+        "year":1932,
+        "edition":"1932 Summer Olympics",
+        "sex":"Male",
+        "count":1850
+    },
+    {
+        "year":1932,
+        "edition":"1932 Winter Olympics",
+        "sex":"Male",
+        "count":351
+    },
+    {
+        "year":1936,
+        "edition":"1936 Summer Olympics",
+        "sex":"Female",
+        "count":384
+    },
+    {
+        "year":1936,
+        "edition":"1936 Winter Olympics",
+        "sex":"Female",
+        "count":115
+    },
+    {
+        "year":1936,
+        "edition":"1936 Summer Olympics",
+        "sex":"Male",
+        "count":4696
+    },
+    {
+        "year":1936,
+        "edition":"1936 Winter Olympics",
+        "sex":"Male",
+        "count":774
+    },
+    {
+        "year":1948,
+        "edition":"1948 Summer Olympics",
+        "sex":"Female",
+        "count":468
+    },
+    {
+        "year":1948,
+        "edition":"1948 Winter Olympics",
+        "sex":"Female",
+        "count":80
+    },
+    {
+        "year":1948,
+        "edition":"1948 Summer Olympics",
+        "sex":"Male",
+        "count":4384
+    },
+    {
+        "year":1948,
+        "edition":"1948 Winter Olympics",
+        "sex":"Male",
+        "count":650
+    },
+    {
+        "year":1952,
+        "edition":"1952 Summer Olympics",
+        "sex":"Female",
+        "count":552
+    },
+    {
+        "year":1952,
+        "edition":"1952 Winter Olympics",
+        "sex":"Female",
+        "count":110
+    },
+    {
+        "year":1952,
+        "edition":"1952 Summer Olympics",
+        "sex":"Male",
+        "count":4992
+    },
+    {
+        "year":1952,
+        "edition":"1952 Winter Olympics",
+        "sex":"Male",
+        "count":623
+    },
+    {
+        "year":1956,
+        "edition":"1956 Equestrian Olympics",
+        "sex":"Female",
+        "count":13
+    },
+    {
+        "year":1956,
+        "edition":"1956 Summer Olympics",
+        "sex":"Female",
+        "count":376
+    },
+    {
+        "year":1956,
+        "edition":"1956 Winter Olympics",
+        "sex":"Female",
+        "count":135
+    },
+    {
+        "year":1956,
+        "edition":"1956 Equestrian Olympics",
+        "sex":"Male",
+        "count":146
+    },
+    {
+        "year":1956,
+        "edition":"1956 Summer Olympics",
+        "sex":"Male",
+        "count":3014
+    },
+    {
+        "year":1956,
+        "edition":"1956 Winter Olympics",
+        "sex":"Male",
+        "count":699
+    },
+    {
+        "year":1960,
+        "edition":"1960 Summer Olympics",
+        "sex":"Female",
+        "count":638
+    },
+    {
+        "year":1960,
+        "edition":"1960 Winter Olympics",
+        "sex":"Female",
+        "count":145
+    },
+    {
+        "year":1960,
+        "edition":"1960 Summer Olympics",
+        "sex":"Male",
+        "count":4959
+    },
+    {
+        "year":1960,
+        "edition":"1960 Winter Olympics",
+        "sex":"Male",
+        "count":525
+    },
+    {
+        "year":1964,
+        "edition":"1964 Summer Olympics",
+        "sex":"Female",
+        "count":706
+    },
+    {
+        "year":1964,
+        "edition":"1964 Winter Olympics",
+        "sex":"Female",
+        "count":201
+    },
+    {
+        "year":1964,
+        "edition":"1964 Summer Olympics",
+        "sex":"Male",
+        "count":4716
+    },
+    {
+        "year":1964,
+        "edition":"1964 Winter Olympics",
+        "sex":"Male",
+        "count":995
+    },
+    {
+        "year":1968,
+        "edition":"1968 Summer Olympics",
+        "sex":"Female",
+        "count":823
+    },
+    {
+        "year":1968,
+        "edition":"1968 Winter Olympics",
+        "sex":"Female",
+        "count":226
+    },
+    {
+        "year":1968,
+        "edition":"1968 Summer Olympics",
+        "sex":"Male",
+        "count":5018
+    },
+    {
+        "year":1968,
+        "edition":"1968 Winter Olympics",
+        "sex":"Male",
+        "count":969
+    },
+    {
+        "year":1972,
+        "edition":"1972 Summer Olympics",
+        "sex":"Female",
+        "count":1119
+    },
+    {
+        "year":1972,
+        "edition":"1972 Winter Olympics",
+        "sex":"Female",
+        "count":207
+    },
+    {
+        "year":1972,
+        "edition":"1972 Summer Olympics",
+        "sex":"Male",
+        "count":6273
+    },
+    {
+        "year":1972,
+        "edition":"1972 Winter Olympics",
+        "sex":"Male",
+        "count":817
+    },
+    {
+        "year":1976,
+        "edition":"1976 Summer Olympics",
+        "sex":"Female",
+        "count":1308
+    },
+    {
+        "year":1976,
+        "edition":"1976 Winter Olympics",
+        "sex":"Female",
+        "count":231
+    },
+    {
+        "year":1976,
+        "edition":"1976 Summer Olympics",
+        "sex":"Male",
+        "count":4912
+    },
+    {
+        "year":1976,
+        "edition":"1976 Winter Olympics",
+        "sex":"Male",
+        "count":903
+    },
+    {
+        "year":1980,
+        "edition":"1980 Summer Olympics",
+        "sex":"Female",
+        "count":1164
+    },
+    {
+        "year":1980,
+        "edition":"1980 Winter Olympics",
+        "sex":"Female",
+        "count":238
+    },
+    {
+        "year":1980,
+        "edition":"1980 Summer Olympics",
+        "sex":"Male",
+        "count":4219
+    },
+    {
+        "year":1980,
+        "edition":"1980 Winter Olympics",
+        "sex":"Male",
+        "count":843
+    },
+    {
+        "year":1984,
+        "edition":"1984 Summer Olympics",
+        "sex":"Female",
+        "count":1658
+    },
+    {
+        "year":1984,
+        "edition":"1984 Winter Olympics",
+        "sex":"Female",
+        "count":281
+    },
+    {
+        "year":1984,
+        "edition":"1984 Summer Olympics",
+        "sex":"Male",
+        "count":5551
+    },
+    {
+        "year":1984,
+        "edition":"1984 Winter Olympics",
+        "sex":"Male",
+        "count":1025
+    },
+    {
+        "year":1988,
+        "edition":"1988 Summer Olympics",
+        "sex":"Female",
+        "count":2395
+    },
+    {
+        "year":1988,
+        "edition":"1988 Winter Olympics",
+        "sex":"Female",
+        "count":412
+    },
+    {
+        "year":1988,
+        "edition":"1988 Summer Olympics",
+        "sex":"Male",
+        "count":6659
+    },
+    {
+        "year":1988,
+        "edition":"1988 Winter Olympics",
+        "sex":"Male",
+        "count":1268
+    },
+    {
+        "year":1992,
+        "edition":"1992 Summer Olympics",
+        "sex":"Female",
+        "count":2823
+    },
+    {
+        "year":1992,
+        "edition":"1992 Winter Olympics",
+        "sex":"Female",
+        "count":584
+    },
+    {
+        "year":1992,
+        "edition":"1992 Summer Olympics",
+        "sex":"Male",
+        "count":7052
+    },
+    {
+        "year":1992,
+        "edition":"1992 Winter Olympics",
+        "sex":"Male",
+        "count":1447
+    },
+    {
+        "year":1994,
+        "edition":"1994 Winter Olympics",
+        "sex":"Female",
+        "count":533
+    },
+    {
+        "year":1994,
+        "edition":"1994 Winter Olympics",
+        "sex":"Male",
+        "count":1232
+    },
+    {
+        "year":1996,
+        "edition":"1996 Summer Olympics",
+        "sex":"Female",
+        "count":3584
+    },
+    {
+        "year":1996,
+        "edition":"1996 Summer Olympics",
+        "sex":"Male",
+        "count":6946
+    },
+    {
+        "year":1998,
+        "edition":"1998 Winter Olympics",
+        "sex":"Female",
+        "count":795
+    },
+    {
+        "year":1998,
+        "edition":"1998 Winter Olympics",
+        "sex":"Male",
+        "count":1414
+    },
+    {
+        "year":2000,
+        "edition":"2000 Summer Olympics",
+        "sex":"Female",
+        "count":4144
+    },
+    {
+        "year":2000,
+        "edition":"2000 Summer Olympics",
+        "sex":"Male",
+        "count":6688
+    },
+    {
+        "year":2002,
+        "edition":"2002 Winter Olympics",
+        "sex":"Female",
+        "count":898
+    },
+    {
+        "year":2002,
+        "edition":"2002 Winter Olympics",
+        "sex":"Male",
+        "count":1530
+    },
+    {
+        "year":2004,
+        "edition":"2004 Summer Olympics",
+        "sex":"Female",
+        "count":4414
+    },
+    {
+        "year":2004,
+        "edition":"2004 Summer Olympics",
+        "sex":"Male",
+        "count":6413
+    },
+    {
+        "year":2006,
+        "edition":"2006 Winter Olympics",
+        "sex":"Female",
+        "count":962
+    },
+    {
+        "year":2006,
+        "edition":"2006 Winter Olympics",
+        "sex":"Male",
+        "count":1556
+    },
+    {
+        "year":2008,
+        "edition":"2008 Summer Olympics",
+        "sex":"Female",
+        "count":4762
+    },
+    {
+        "year":2008,
+        "edition":"2008 Summer Olympics",
+        "sex":"Male",
+        "count":6476
+    },
+    {
+        "year":2010,
+        "edition":"2010 Winter Olympics",
+        "sex":"Female",
+        "count":1050
+    },
+    {
+        "year":2010,
+        "edition":"2010 Winter Olympics",
+        "sex":"Male",
+        "count":1527
+    },
+    {
+        "year":2012,
+        "edition":"2012 Summer Olympics",
+        "sex":"Female",
+        "count":4776
+    },
+    {
+        "year":2012,
+        "edition":"2012 Summer Olympics",
+        "sex":"Male",
+        "count":5992
+    },
+    {
+        "year":2014,
+        "edition":"2014 Winter Olympics",
+        "sex":"Female",
+        "count":1134
+    },
+    {
+        "year":2014,
+        "edition":"2014 Winter Olympics",
+        "sex":"Male",
+        "count":1673
+    },
+    {
+        "year":2016,
+        "edition":"2016 Summer Olympics",
+        "sex":"Female",
+        "count":5137
+    },
+    {
+        "year":2016,
+        "edition":"2016 Summer Olympics",
+        "sex":"Male",
+        "count":6269
+    },
+    {
+        "year":2018,
+        "edition":"2018 Winter Olympics",
+        "sex":"Female",
+        "count":1178
+    },
+    {
+        "year":2018,
+        "edition":"2018 Winter Olympics",
+        "sex":"Male",
+        "count":1675
+    },
+    {
+        "year":2020,
+        "edition":"2020 Summer Olympics",
+        "sex":"Female",
+        "count":5539
+    },
+    {
+        "year":2020,
+        "edition":"2020 Summer Olympics",
+        "sex":"Male",
+        "count":6040
+    },
+    {
+        "year":2022,
+        "edition":"2022 Winter Olympics",
+        "sex":"Female",
+        "count":1277
+    },
+    {
+        "year":2022,
+        "edition":"2022 Winter Olympics",
+        "sex":"Male",
+        "count":1571
+    },
+    {
+        "year":2024,
+        "edition":"2024 Summer Olympics",
+        "sex":"Female",
+        "count":5455
+    },
+    {
+        "year":2024,
+        "edition":"2024 Summer Olympics",
+        "sex":"Male",
+        "count":5658
+    }
+]

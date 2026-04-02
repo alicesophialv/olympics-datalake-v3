@@ -1,0 +1,14 @@
+{
+    "nome_do_dataset": "atletas_por_sexo",
+    "fonte": "Cruzamento de biografia de atletas com resultados de eventos (1896-2024)",
+    "descricao": "Contagem de atletas únicos participantes em cada edição, segregados por sexo.",
+    "campos_principais": [
+        "year",
+        "edition",
+        "sex",
+        "count"
+    ],
+    "data_de_processamento": "2026-04-02",
+    "formato_armazenamento": "Parquet e JSON",
+    "observacoes": "Utilizado nunique() para evitar contagem duplicada de atletas que competiram em mais de um evento na mesma edição."
+}

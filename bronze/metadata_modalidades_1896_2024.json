@@ -1,0 +1,13 @@
+{
+    "nome_do_dataset": "modalidades_1896_2024",
+    "fonte": "Integração events_result + events (Paris 2024)",
+    "descricao": "Lista de modalidades esportivas presentes em cada edição das Olimpíadas.",
+    "campos_principais": [
+        "year",
+        "edition",
+        "sport"
+    ],
+    "data_de_processamento": "2026-04-02",
+    "formato_armazenamento": "Parquet e JSON",
+    "observacoes": "Dados extraídos e normalizados a partir dos resultados de eventos."
+}
